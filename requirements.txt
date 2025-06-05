@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyterlab
+python-dotenv # For API keys if needed
+# For Task 1
+nltk
+scikit-learn # For TF-IDF, etc.
+# For Task 2
+ta-lib # Will need to install underlying C library first
+pynance # May need to install from git if not on pip or compatible
+yfinance # To fetch stock price data
+# For Task 3
+textblob
+scipy # For Pearson correlation
